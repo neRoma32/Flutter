@@ -1,0 +1,131 @@
+{
+  "appTitle": "My Store",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+
+  "productsTab": "Products",
+  "@productsTab": {
+    "description": "Label for the products tab"
+  },
+
+  "settingsTab": "Settings",
+  "@settingsTab": {
+    "description": "Label for the settings tab"
+  },
+
+  "languageLabel": "Language",
+  "@languageLabel": {
+    "description": "Label for the language setting"
+  },
+
+  "selectLanguage": "Select Language",
+  "@selectLanguage": {
+    "description": "Subtitle or description to select language"
+  },
+
+  "availableLanguages": "Available Languages:",
+  "@availableLanguages": {
+    "description": "Label displaying the list of available languages"
+  },
+
+  "helloUser": "Hello, {name}!",
+  "@helloUser": {
+    "description": "Greeting message with name parameter",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+
+  "itemsCount": "{count, plural, =0{No products} =1{1 product} other{{count} products}}",
+  "@itemsCount": {
+    "description": "Number of products with pluralization",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+
+  "totalPrice": "Total: {price}",
+  "@totalPrice": {
+    "description": "Total sum price label",
+    "placeholders": {
+      "price": {
+        "type": "String"
+      }
+    }
+  },
+
+  "addedDate": "Added: {date}",
+  "@addedDate": {
+    "description": "Formatted date the product was added",
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+
+  "save": "Save",
+  "@save": {
+    "description": "Save button label"
+  },
+
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Cancel button label"
+  },
+
+  "delete": "Delete",
+  "@delete": {
+    "description": "Delete button label"
+  },
+
+  "edit": "Edit",
+  "@edit": {
+    "description": "Edit button label"
+  },
+
+  "add": "Add",
+  "@add": {
+    "description": "Add button label"
+  },
+
+  "productShirt": "T-Shirt",
+  "@productShirt": {
+    "description": "Product name: T-Shirt"
+  },
+
+  "productShoes": "Sneakers",
+  "@productShoes": {
+    "description": "Product name: Sneakers"
+  },
+
+  "productJacket": "Jacket",
+  "@productJacket": {
+    "description": "Product name: Jacket"
+  },
+
+  "languageChanged": "Language changed to {language}",
+  "@languageChanged": {
+    "description": "Snackbar notification message when language is changed",
+    "placeholders": {
+      "language": {
+        "type": "String"
+      }
+    }
+  },
+
+  "noProducts": "No products yet",
+  "@noProducts": {
+    "description": "Placeholder when the product list is empty"
+  },
+
+  "errorLoading": "Error loading data",
+  "@errorLoading": {
+    "description": "Error message when loading fails"
+  }
+}

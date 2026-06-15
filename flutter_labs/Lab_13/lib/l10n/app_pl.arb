@@ -1,0 +1,23 @@
+{
+  "appTitle": "Mój Sklep",
+  "productsTab": "Produkty",
+  "settingsTab": "Ustawienia",
+  "languageLabel": "Język",
+  "selectLanguage": "Wybierz język",
+  "availableLanguages": "Dostępne języki:",
+  "helloUser": "Witaj, {name}!",
+  "itemsCount": "{count, plural, =0{Brak produktów} =1{1 produkt} few{{count} produkty} many{{count} produktów} other{{count} produktu}}",
+  "totalPrice": "Suma: {price}",
+  "addedDate": "Dodano: {date}",
+  "save": "Zapisz",
+  "cancel": "Anuluj",
+  "delete": "Usuń",
+  "edit": "Edytuj",
+  "add": "Dodaj",
+  "productShirt": "Koszulka",
+  "productShoes": "Buty",
+  "productJacket": "Kurtka",
+  "languageChanged": "Język zmieniony na {language}",
+  "noProducts": "Brak produktów",
+  "errorLoading": "Błąd ładowania danych"
+}

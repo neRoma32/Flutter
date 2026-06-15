@@ -1,0 +1,23 @@
+{
+  "appTitle": "Мій Магазин",
+  "productsTab": "Товари",
+  "settingsTab": "Налаштування",
+  "languageLabel": "Мова",
+  "selectLanguage": "Виберіть мову",
+  "availableLanguages": "Доступні мови:",
+  "helloUser": "Привіт, {name}!",
+  "itemsCount": "{count, plural, =0{Немає товарів} =1{1 товар} few{{count} товари} other{{count} товарів}}",
+  "totalPrice": "Сума: {price}",
+  "addedDate": "Додано: {date}",
+  "save": "Зберегти",
+  "cancel": "Скасувати",
+  "delete": "Видалити",
+  "edit": "Редагувати",
+  "add": "Додати",
+  "productShirt": "Футболка",
+  "productShoes": "Кросівки",
+  "productJacket": "Куртка",
+  "languageChanged": "Мову змінено на {language}",
+  "noProducts": "Товарів ще немає",
+  "errorLoading": "Помилка завантаження даних"
+}
